@@ -1,0 +1,10 @@
+{
+  "name": "celebrate-page",
+  "entry": "./index.html",
+  "installCommand": "",
+  "buildCommand": "",
+  "assets": {
+    "directory": "./",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
